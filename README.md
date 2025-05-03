@@ -7,7 +7,7 @@ This project explores the intersection of film and culture by asking a simple bu
 
 ## 📌 Overview
 
-Inspired by two friends named Diana — both born in 1981, the year of Princess Diana’s wedding — this analysis investigates whether names of prominent actors in films correlate with baby name spikes in the United States. 
+Inspired by my two best friends named Diana — both born in 1981, the year of Princess Diana’s wedding — this analysis investigates whether names of prominent actors in films correlate with baby name spikes in the United States. 
 
 The hypothesis: **cultural visibility of a name through film actors may lead to sharp increases in baby name usage.**
 
@@ -15,15 +15,15 @@ While both actor and character names were explored, **character names were ultim
 
 ## 🔍 Datasets Used
 
-- **U.S. Baby Names (SSA, through 2014)**  
+- **U.S. Baby Names (through 2014)**  
   Includes yearly name counts by gender, normalised by total births.
 
-- **IMDb Film Data (1912–2014)**  
+- **IMDb Film Data (since 1912)**  
   Processed for English-language movies, top 3 billed actors, and character names.
 
-All datasets were merged and cleaned via SQL stored procedures and Python.  
+All datasets were merged and cleaned via an SQL stored procedure which utilises three SQL functions.
 
-> 🔧 See: `film.sp_dataprep.sql` and `unsupervised_clustering_baby_names.ipynb`
+> 🔧 See: film.sp_dataprep.sql, ExtractNumbers, ConvertNonBasicLatinToBasic, HasNonAlphabeticChar
 
 ## 🧠 Methodology
 
@@ -68,7 +68,7 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ## ✍️ Author
 
-**Andrei Martin**  
+**Andrei Martin Diamante**  
 Data & Business Analytics Specialist | Educator | Cultural Observer  
 Connect via [GitHub](https://github.com/andrei-martin-datadev)
 
