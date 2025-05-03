@@ -60,8 +60,8 @@ Clusters were analysed to determine whether they coincided with higher baby name
 - T-SQL (for cleaning and preparation)
 - Jupyter Notebooks
 - GitHub
-- Tableau (planned)
-- Medium article (planned)
+- Tableau Public (planned)
+- Medium (planned)
 
 ## 🧾 License
 
