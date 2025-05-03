@@ -61,6 +61,7 @@ Clusters were analysed to determine whether they coincided with higher baby name
 - Jupyter Notebooks
 - GitHub
 - Tableau (planned)
+- Medium article (planned)
 
 ## 🧾 License
 
