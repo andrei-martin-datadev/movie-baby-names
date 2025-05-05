@@ -64,12 +64,12 @@ Clusters were analysed to determine whether they coincided with higher baby name
 - Tableau Public
 - Medium (planned)
 
----
-
 ### 📊 Interactive Dashboard
 
 Explore the interactive Tableau visualisation of this analysis:  
 👉 [The Hollywood Effect on Tableau Public](https://public.tableau.com/app/profile/drei/viz/TheHollywoodEffectHowActorNamesShapeBabyNamingTrends/TheHollywoodEffect)
+
+---
 
 ## 🧾 License
 
