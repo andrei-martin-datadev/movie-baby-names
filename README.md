@@ -53,7 +53,7 @@ Clusters were analysed to determine whether they coincided with higher baby name
 | `film.sp_dataprep.sql` | SQL stored procedure for merging and preparing the dataset |
 | `dbo.HasNonAlphabeticChar.sql`<br>`dbo.ConvertNonBasicLatinToBasic.sql`<br>`dbo.ExtractNumbers.sql` | SQL helper functions for data cleaning |
 | `actorbabycharacternames.zip` | Zipped version of the cleansed dataset |
-| 'The Hollywood Effect_ How Actor Names Shape Baby Naming Trends.twbx' | Tableau Workbook |
+| `The Hollywood Effect_ How Actor Names Shape Baby Naming Trends.twbx` | Tableau Workbook |
 
 ## 🔧 Tools and Technologies
 
