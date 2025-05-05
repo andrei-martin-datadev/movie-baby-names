@@ -53,6 +53,7 @@ Clusters were analysed to determine whether they coincided with higher baby name
 | `film.sp_dataprep.sql` | SQL stored procedure for merging and preparing the dataset |
 | `dbo.HasNonAlphabeticChar.sql`<br>`dbo.ConvertNonBasicLatinToBasic.sql`<br>`dbo.ExtractNumbers.sql` | SQL helper functions for data cleaning |
 | `actorbabycharacternames.zip` | Zipped version of the cleansed dataset |
+| 'The Hollywood Effect_ How Actor Names Shape Baby Naming Trends.twbx' | Tableau Workbook |
 
 ## 🔧 Tools and Technologies
 
@@ -60,7 +61,7 @@ Clusters were analysed to determine whether they coincided with higher baby name
 - T-SQL (for cleaning and preparation)
 - Jupyter Notebooks
 - GitHub
-- Tableau Public (planned)
+- Tableau Public
 - Medium (planned)
 
 ## 🧾 License
@@ -77,6 +78,5 @@ Connect via [GitHub](https://github.com/andrei-martin-datadev)
 
 ## ⭐ Coming Soon
 
-- 📊 **Interactive Tableau Dashboard**
 - 📝 **Medium article** unpacking the full story, visuals, and cultural analysis
 
